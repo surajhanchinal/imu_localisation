@@ -1,0 +1,71 @@
+random data containing arduino Code
+
+
+
+
+
+
+
+   //float heading = atan2(my, mx);
+
+      //if(heading < 0)
+      //heading += 2*PI;
+
+      // Check for wrap due to addition of declination.
+      //if(heading > 2*PI)
+      //heading -= 2*PI;
+
+      // Convert radians to degrees for readability.
+      //float headingDegrees = heading * 180/M_PI;
+      //Serial.print("Heading (degrees): "); Serial.println(headingDegrees);
+
+
+
+
+
+
+
+
+
+
+
+
+      /*if (mx < minX) minX = mx;
+        if (mx > maxX) maxX = mx;
+        if (my < minY) minY = my;
+        if (my > maxY) maxY = my;
+        if (mz < minZ) minZ = mz;
+        if (mz > maxZ) maxZ = mz;
+        // Calculate offsets
+        offX = (maxX + minX)/2;
+        offY = (maxY + minY)/2;
+        offZ = (maxZ + minZ)/2;
+        Serial.print("MINX :  ");
+        Serial.print(minX);
+        Serial.println();
+        Serial.print("MAXX :  ");
+        Serial.print(maxX);
+        Serial.println();
+        Serial.print("MINY  :  ");
+        Serial.print(minY);
+        Serial.println();
+        Serial.print("MAXY :  ");
+        Serial.print(maxY);
+        Serial.println();
+        Serial.print("OFFX : ");
+        Serial.print(offX);
+        Serial.println();
+        Serial.print("OFFY  :  ");
+        Serial.print(offY);
+        Serial.println();
+        Serial.print("\n");
+
+        Serial.print("MINZ :  ");
+        Serial.print(minZ);
+        Serial.println();
+        Serial.print("MAXZ :  ");
+        Serial.print(maxZ);
+        Serial.println();
+        Serial.print("OFFZ  :  ");
+        Serial.print(offZ);
+          */
